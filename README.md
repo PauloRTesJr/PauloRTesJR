@@ -8,5 +8,3 @@ am an ardent learner, and I enjoy studying and expanding my knowledge to stay
 up-to-date with the latest trends and advancements in the field.
 
 Checkout my [resume](https://paulortesjr.github.io/resume/)!
-
-![OfficeMichaelGIF](https://user-images.githubusercontent.com/9371319/232550133-7899e496-78eb-47a7-8c5c-50fd3131ba29.gif)
